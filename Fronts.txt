@@ -1,0 +1,21 @@
+01. Logo font: Inconsolata Regular(400)
+
+02. Nav items font: Playfair Display (400)
+
+03. Text below the main Image: Ubuntu Light (300/200)
+
+04. Text heading after the main image:  PlayfairDisplay (400).
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Playfair+Display|Ubuntu:300" rel="stylesheet">
+
+   
+CSS properties:
+
+    font-family: 'Inconsolata', monospace;
+
+    font-family: 'Ubuntu', sans-serif;
+
+    font-family: 'Playfair Display', serif;
+
